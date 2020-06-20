@@ -1,1 +1,0 @@
-# Student-management-on-desktop
