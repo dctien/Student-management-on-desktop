@@ -1,15 +1,15 @@
-Hu?ng D?n S? D?ng Chuong Trình:
--Ğ?u tiên,t?o 1 co s? d? li?u b?ng Postgresql.d?t tên là tùy ban.
--Chú ı:Pass server c?a co s? d? li?u này b?n ph?i d? m?c d?nh la:12345
--Sau dó,Restore co s? d? li?u vào dó:CSDL_PROJECT
+Project Database
+
+
+Huong Dan Su Dung Chuong TrÃ¬nh:
+-Ãáº§u tiÃªn,táº¡o 1 CSDL báº±ng Postgresql tÃªn lÃ  tÃ¹y ban.
+-ChÃº Ã½:Pass server cá»§a CSDL báº¡n pháº£i máº·c Ä‘á»‹nh lÃ :12345
+-Sau dÃ³,Restore CSDL vÃ o dÃ³:CSDL_PROJECT
 -Run file TN.exe
--Ti?n hành run chuong trình:
-+S? có c?a s? Login,yêu c?u b?n ph?i dang nh?p d? s? d?ng chuong trình.
-+T?i dây,b?n ph?i nh?p:
-    -HostAddress:localhost(vì co s? d? li?u là offline trên máy tính c?a b?n).
-    -Port:Tùy thu?c vào lúc ban cài d?t Postgresql(M?c d?nh có th? la 5432).
-    -Database Name:Chính là tên co so d? li?u mà b?n v?a Restore CSDL_PROJECT.
-    -User:T?i dây,t?n t?i 2 lo?i tài kho?n:User và Admin.b?n có th? xem tai table account trong CSDL.
-    -PassWord:M?c d?nh là 12345 
--Sau khi dang nh?p thành công,chuong trình s? dua b?n d?n v?i giao di?n chính c?a chuong trình.
--Và bây gi? b?n có th? ngh?ch ng?m th?a con gà mái(^_^).Gooluck!!!!
+-Tiáº¿n hÃ nh run chuong trÃ¬nh:
++Táº¡i dÃ¢y,báº¡n pháº£i Ä‘Äƒng nháº­p:
+    -HostAddress:localhost(vÃ¬ CSDL lÃ  offline trÃªn mÃ¡y tÃ­nh cá»§a báº¡n).
+    -Port:TÃ¹y thuá»™c vÃ o lÃºc ban cÃ i Ä‘áº·t Postgresql(Máº·c Ä‘á»‹nh thÃ¬ lÃ  5432).
+    -Database Name:ChÃ­nh lÃ  tÃªn CSSDL mÃ  báº¡n v?a Restore CSDL_PROJECT.
+    -PassWord:Máº·c Ä‘á»‹nh lÃ  12345 
+-Sau khi dang nháº­p thÃ nh cÃ´ng,chuong trÃ¬nh sáº½ Ä‘Æ°a báº¡n vÃ o giao diá»‡n cá»§a chuong trÃ¬nh.
